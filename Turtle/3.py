@@ -51,3 +51,4 @@ def turtles():
     turtle.forward(400)
     turtle.done()
 turtles() #Function
+print("HI")
