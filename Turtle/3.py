@@ -49,6 +49,10 @@ def turtles():
     turtle.down()
     turtle.right(90)
     turtle.forward(400)
+    turtle.clear()
+    for i in range(1,27):
+        turtle.forward(100)
+        turtle.left(95)
     turtle.done()
 turtles() #Function
-print("Test")
+# print("Test")
