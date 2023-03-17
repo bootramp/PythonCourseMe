@@ -54,5 +54,5 @@ def turtles():
         turtle.forward(100)
         turtle.left(95)
     turtle.done()
-turtles() #Function
+turtles() #Calling Function
 # print("Test")
